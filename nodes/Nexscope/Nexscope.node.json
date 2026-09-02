@@ -1,0 +1,18 @@
+{
+	"node": "@nexscope/n8n-nodes-app",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Marketing"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.nexscope.ai/seller/api-access?tab=api-keys&mode=data&channel=n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://www.nexscope.ai/api-docs?channel=n8n"
+			}
+		]
+	}
+}
