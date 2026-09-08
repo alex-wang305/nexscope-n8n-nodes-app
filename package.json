@@ -1,6 +1,6 @@
 {
 	"name": "@nexscope/n8n-nodes-app",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Official n8n community node for Nexscope ecommerce data APIs",
 	"license": "MIT",
 	"homepage": "https://www.nexscope.ai/apis/amazon?channel=n8n",

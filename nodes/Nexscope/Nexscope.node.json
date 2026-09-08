@@ -1,8 +1,8 @@
 {
-	"node": "@nexscope/n8n-nodes-app",
+	"node": "@nexscope/n8n-nodes-app.nexscope",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
-	"categories": ["Data & Storage", "Marketing"],
+	"categories": ["Data & Storage", "Marketing & Content"],
 	"resources": {
 		"credentialDocumentation": [
 			{
